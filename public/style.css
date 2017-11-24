@@ -1,0 +1,47 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #222;
+	background-color: #ECF0F1;
+  padding-left: 25px;
+}
+
+.container {
+	padding: 0;
+	margin-top: 40px;
+}
+
+.footer {
+	margin-top: 60px;
+}
+
+a {
+	color: #2574A9;
+}
+/****** Logo Div Styling ******/
+
+img {
+	margin: 20px auto 0 auto;
+	display: block;
+}
+
+.examples {
+    text-align: left;
+}
+
+.examples code {
+    background-color: #da4544;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+ul.user-stories li {
+    display: block;
+    font-weight: 100;
+    font-size: 16px;
+    font-style: normal;
+    font-family: monospace;
+}

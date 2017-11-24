@@ -1,0 +1,22 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "description": "url shortener",
+  "license": "",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "valid-url": "^1.0.9",
+    "uid": "^0.0.2"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
+}
